@@ -1,0 +1,70 @@
+https://gist.github.com/Klerith/4a4abfd88a88b2d1f16efd95fea41362
+
+Instalaciones recomendadas - Curso de React
+Instalaciones Necesarias
+Google Chrome
+React Developer Tools
+Redux Devtools
+Visual Studio Code
+Postman
+Mongo Compass
+Git
+Node
+
+Extensiones de VSCode
+Activitus Bar
+
+Configuración del Bracket Pair Colorizer 2
+Bracket Pair Colorizer 2
+
+file/preferences/settings/Text Editor/Edit in setting.json
+"bracket-pair-colorizer-2.colors": [
+    "#fafafa",
+    "#9F51B6",
+    "#F7C244",
+    "#F07850",
+    "#9CDD29",
+    "#C497D4"
+],
+Tema que estoy usando en VSCode:
+Monokai Night
+
+Iconos
+Instalaciones recomendadas sobre React
+ES7 React/Redux
+Simple React Snippets
+Auto Close Tag
+
+--Para crear un proyecto en react
+npx create-react-app intro-javascript
+
+Starts the development server.
+npm start
+
+Bundles the app into static files for production.
+npm run build
+
+Starts the test runner.
+npm test
+
+Removes this tool and copies build dependencies, configuration files
+and scripts into the app directory. If you do this, you can’t go back!
+npm run eject
+
+We suggest that you begin by typing:
+
+cd intro-javascript
+npm start
+
+--Si necesita saber algo de funciones, etc de javascript, use
+https://mdn.dev/
+
+Nota sobre JavaScript
+Terminamos la sección de reforzamiento de JavaScript
+Pero recuerden que esto es para entrar en calor y que lo temas principales de JavaScript que necesito que conozcan estén cubiertos, 
+pero les recomiendo que cualquier duda adicional sobre el lenguaje, sobre métodos y demás, la consulten aquí
+
+https://developer.mozilla.org/es/
+Como ya les había mencionado, considero esa página la mejor en cuanto a documentación sobre JavaScript.
+También si sienten que necesitan más sobre JavaScript en video, mi curso de JavaScript Moderno es el indicado para eso.
+En fin!, es momento de empezar con React!
